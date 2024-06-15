@@ -8,33 +8,27 @@ This repository acts as a platform for community contributors to engage in bount
 
 ## How to Participate
 
-Contributors are invited to participate by selecting bounties that match their skills and interests. Here’s how you can get started:
+Contributors are invited to participate by selecting bounties that match their skills and interests. To ensure a streamlined process, all bounty activities including issue selection and submissions are managed through Gib.work. Here’s how you can get started:
 
-### Step 1: Choose a Bounty
-- Browse the [Issues](https://github.com/dean-s-list/Gib-Work-Bounties/issues) section to find open bounties.
-- Each issue will detail the requirements and rewards for the bounty.
+### Step 1: Log In to Gib.work
+- Visit [Gib.work](https://gib.work) and log in using your GitHub credentials. Make sure to authorize Gib.work to access your GitHub information as required.
 
-### Step 2: Fork the Repository
-- Fork this repository to your own GitHub account. This provides you with a personal workspace to work on the bounty.
+### Step 2: Choose a Bounty
+- Once logged in, navigate to the bounties section to find tasks available for contributions. Each listing will detail the requirements and rewards for the bounty.
 
 ### Step 3: Work on the Bounty
-- Follow the instructions in the issue to complete the bounty.
-- Ensure your work meets the criteria specified in the bounty description.
+- Select a bounty that interests you and follow the detailed instructions provided in Gib.work to work on the task.
 
 ### Step 4: Submit Your Work
-- Once you have completed the work, submit a pull request to this repository.
-- Ensure to link the pull request to the issue you are addressing.
+- Complete the work as per the guidelines and submit your contribution directly through Gib.work. This process ensures that all contributions are tracked and managed efficiently.
 
 ## Rewards
-Rewards are offered for completed bounties and are based on the complexity and impact of the feedback provided. Details about the rewards are specified in each bounty issue.
-
-## Contributing
-Please read [CONTRIBUTING.md](https://github.com/dean-s-list/Gib-Work-Bounties/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Rewards are offered for completed bounties and are based on the complexity and impact of the feedback provided. Detailed information about the rewards is available for each bounty on Gib.work.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/dean-s-list/Gib-Work-Bounties/LICENSE) - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/dean-s-list/Gib-Work-Bounties/LICENSE). See the LICENSE file for more details.
 
 ## Contact
-For any questions or concerns regarding the bounties or participation, please open an issue in this repository's [Issue Tracker](https://github.com/dean-s-list/Gib-Work-Bounties/issues).
+For any questions or concerns regarding the bounties or participation, feel free to reach out through our [Issue Tracker](https://github.com/dean-s-list/Gib-Work-Bounties/issues) or contact us directly through Gib.work.
 
 Thank you for contributing to the Dean's List community!
