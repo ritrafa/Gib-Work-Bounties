@@ -1,18 +1,24 @@
 ---
-name: 'Bounty Issue Template'
-about: 'Use this template for creating new bounty issues.'
-title: 'Bounty: [Enter Title Here]'
-labels: 'bounty'
+name: 'Technical Review Bounty'
+about: 'Use this template for creating technical review bounties.'
+title: 'Technical Review: [Product/Feature]'
+labels: 'technical-review, open'
 assignees: ''
+
 ---
 
 ## Bounty Description
 
 ### Objective
-This bounty is aimed at conducting a thorough technical review of [Product/Feature Name]. The focus will be on assessing code quality, security vulnerabilities, performance issues, and scalability potential.
+This bounty is aimed at conducting a thorough technical review of [Product/Feature Name, e.g., Glow Wallet]. The focus will be on assessing code quality, security vulnerabilities, performance issues, and scalability potential.
 
 ### Reward
 $300 USD for a comprehensive review that meets the following criteria.
+
+## Relevant Links
+
+- **Product Repository**: [GitHub Repository](#)
+- **Documentation**: [Product Documentation](#)
 
 ## Submission Requirements
 
@@ -50,4 +56,3 @@ $300 USD for a comprehensive review that meets the following criteria.
 - **Comprehensiveness**: The more comprehensive and actionable your review, the higher the chances of earning the bounty.
 
 Thank you for contributing to the development and improvement of [Product/Feature Name]!
-
