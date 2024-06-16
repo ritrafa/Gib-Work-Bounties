@@ -1,7 +1,7 @@
 ---
 name: 'Technical Feedback Bounty - without Code Review'
 about: 'Use this template for providing technical feedback on products without direct code access.'
-title: "Dean's List x [Product/Feature] : Technical Review"
+title: "Dean's List x [Product/Feature] : Technical Feedback Bounty"
 labels: 'technical-feedback, no-code-review'
 assignees: ''
 
