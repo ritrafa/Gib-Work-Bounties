@@ -1,5 +1,5 @@
 ---
-name: 'Technical Feedback Bounty'
+name: 'Technical Feedback Bounty - without Code Review'
 about: 'Use this template for providing technical feedback on products without direct code access.'
 title: 'Technical Feedback: [Product/Feature]'
 labels: 'technical-feedback, no-code-review'
