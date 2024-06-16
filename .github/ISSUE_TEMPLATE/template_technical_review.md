@@ -37,7 +37,7 @@ Choose the appropriate section based on whether the product's code is accessible
 
 #### If Code is Accessible (Open Source)
 - **Code Quality**: Assess readability, documentation, and maintainability.
-- **Security Review**: Highlight any security vulnerabilities or issues.
+- **Security Review**: Identify and highlight any obvious security vulnerabilities or issues. This review is intended to catch surface-level security concerns and is not a substitute for a comprehensive security audit.
 - **Performance**: Evaluate code efficiency and resource usage.
 
 #### If Code is Not Accessible
