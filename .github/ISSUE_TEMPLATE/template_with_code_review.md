@@ -1,5 +1,5 @@
 ---
-name: 'Technical Review Bounty - with Code Review'
+name: 'Dean's List x  [Product/Feature] : Technical Review with Code Review'
 about: 'Use this template for technical reviews that include code review for open source projects.'
 title: 'Dean's List x  [Product/Feature] : Technical Review with Code Review'
 labels: 'technical-review, open-source, code-review'
