@@ -13,7 +13,7 @@ assignees: ''
 Conduct a detailed technical review of [Product/Feature Name], focusing on usability, functionality, and technical soundness.
 
 ### Reward
-$300 USD for a comprehensive review that adheres to the outlined criteria.
+$300 USDC for a comprehensive review that adheres to the outlined criteria.
 
 ## Relevant Links
 
