@@ -1,5 +1,5 @@
 ---
-name: 'Technical Review Bounty'
+name: 'General Technical Review Bounty'
 about: 'Use this template for technical reviews that adjust based on the accessibility of the project code.'
 title: 'Technical Review: [Product/Feature]'
 labels: 'technical-review'
