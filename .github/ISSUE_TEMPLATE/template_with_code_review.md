@@ -1,5 +1,5 @@
 ---
-name: 'Open Source Technical Review Bounty'
+name: 'Technical Review Bounty - with Code Review'
 about: 'Use this template for technical reviews that include code review for open source projects.'
 title: 'Technical Review with Code Review: [Product/Feature]'
 labels: 'technical-review, open-source, code-review'
