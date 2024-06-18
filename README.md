@@ -29,6 +29,6 @@ Rewards are offered for completed bounties and are based on the complexity and i
 This project is licensed under the [MIT License](https://github.com/dean-s-list/Gib-Work-Bounties/LICENSE). See the LICENSE file for more details.
 
 ## Contact
-For any questions or concerns regarding the bounties or participation, feel free to reach out through our [Issue Tracker](https://github.com/dean-s-list/Gib-Work-Bounties/issues) or contact us directly through Gib.work.
+For any questions or concerns regarding the bounties or participation, feel free to reach out through our [Issue Tracker](https://github.com/dean-s-list/Gib-Work-Bounties/issues) .
 
 Thank you for contributing to the Dean's List community!
