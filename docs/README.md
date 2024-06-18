@@ -4,14 +4,14 @@ Welcome to the documentation section of the Gib Work Bounties repository! This f
 
 ## Contents
 
-- **Creating Bounties.md**: Step-by-step guide to creating bounties on gib.work using GitHub issues.
+- **CREATING_BOUNTY.md**: Step-by-step guide to creating bounties on gib.work using GitHub issues.
 - **Screenshots/**: This subfolder contains all the visual aids referenced in our documentation to help you better understand the processes.
 
 ## Using This Documentation
 
 Each document in this folder is designed to provide detailed instructions on specific aspects of our bounty creation and management process. To get started, simply choose the document that corresponds to the task you are interested in:
 
-1. **Creating Bounties**: If you're looking to start creating bounties, open the `Creating Bounties.md` file for a detailed walkthrough.
+1. **Creating Bounties**: If you're looking to start creating bounties, open the `CREATING_BOUNTY.md` file for a detailed walkthrough.
 
 ## Feedback
 
